@@ -12,7 +12,7 @@
 ---
 
 ### 🛠️ Tech Stack
-<p align="left">
+<p align="left" style="display:flex; flex-wrap:wrap; gap:12px;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
   <img src="https://cdn.simpleicons.org/mysql" width="40" height="40" title="SQL"/>
