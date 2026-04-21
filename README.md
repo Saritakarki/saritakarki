@@ -11,18 +11,21 @@
 
 ---
 
-### 🛠️ Tech Stack
-<p align="left" style="display:flex; flex-wrap:wrap; gap:12px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
-  <img src="https://cdn.simpleicons.org/mysql" width="40" height="40" title="SQL"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="40" height="40"/>
-  <img src="https://cdn.simpleicons.org/apachekafka" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" width="40" height="40"/>
-  <img src="https://cdn.simpleicons.org/flask" width="40" height="40"/>
-</p>
+### 🛠️ Tech Stacks
+
+[<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" />][github]
+[<img align="left" alt="PostgreSQL" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/postgresql/postgresql.png" />][github]
+[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png" />][github]
+[<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/mongodb/mongodb.png" />][github]
+[<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png" />][github]
+[<img align="left" alt="Nginx" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/nginx/nginx.png" />][github]
+[<img align="left" alt="Kafka" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/apache-kafka/apache-kafka.png" />][github]
+[<img align="left" alt="Airflow" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/apache-airflow/apache-airflow.png" />][github]
+[<img align="left" alt="Django" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/django/django.png" />][github]
+[<img align="left" alt="linux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />][github]
+
+<br />
+<br />
 
 ---
 
@@ -48,9 +51,6 @@
   <a href="https://www.linkedin.com/in/sarita-karki-bb402a10b/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
   </a>
-  <a href="https://www.instagram.com/__saritakarki/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
-  </a>
 </p>
 
 ---
@@ -58,3 +58,5 @@
 ### 📫 Contact
 - Email: **saritakarki00053@gmail.com**
 - GitHub: https://github.com/Saritakarki
+
+[github]: https://github.com
