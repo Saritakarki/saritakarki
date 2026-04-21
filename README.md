@@ -43,7 +43,7 @@
 ---
 
 ### 🌐 Connect with me
-<p align="left" style="display:flex; gap:15px;">
+<p align="left"; gap:15px;">
   <a href="https://www.linkedin.com/in/sarita-karki-bb402a10b/" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
   </a>
